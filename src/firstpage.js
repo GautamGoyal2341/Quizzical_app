@@ -1,5 +1,7 @@
 import React from "react";
 import App from './App'
+import {  Route, Switch } from 'react-router-dom';
+import Land  from "./Landing";
 function Fp()
 {
     function page()
