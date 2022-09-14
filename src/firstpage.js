@@ -1,16 +1,21 @@
 import React from "react";
 import App from './App'
-import {  Route, Switch } from 'react-router-dom';
+
 import Land  from "./Landing";
+import {useNavigate} from 'react-router-dom'
+
+
 function Fp()
 {
+
+
+    const navigate = useNavigate();  
+
     function page()
     {
-        console.log("s")
-        // alert("a")
-        return(
-            <App/>
-        )
+    
+             navigate("/land")
+     
     }
     return(
         <main>

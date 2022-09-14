@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(6, 6, 6);
+    background-color: #F5F7FB;
 }
 .title{
     /* display: flex; */
@@ -17,10 +17,24 @@ body{
     padding: 15px;
     border-radius: 15%;
     text-align: center;
-    margin-left: 6990px;
+    margin-left: 699px;
 }
 
 .title-button:hover{
     background-color: black;
     color:  white;
+}
+
+.ww{
+    color: rebeccapurple;
+}
+.main-button{
+
+
+    background-color: white;
+    padding: 15px;
+    /* border-radius: %; */
+    text-align: center;
+    margin-left: 710px;
+
 }
