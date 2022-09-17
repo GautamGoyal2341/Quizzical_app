@@ -31,3 +31,19 @@ body{
     padding: 18px;
 
 }
+
+
+
+
+.quest-box{
+    display: flex;
+    /* flex-direction: ;
+     */
+     align-items: center;
+     justify-content: center;
+}
+
+
+.quest-main{
+    color: #293264;
+}
