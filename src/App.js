@@ -18,7 +18,7 @@ function App()
     return (
         <>
         
-        { newpage ? <Question/> : <Home clickFunction={HandleClick}  />};
+        { newpage ? <Question/> : <Home clickFunction={HandleClick}  />}
          </>
     )
 }
