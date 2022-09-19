@@ -4,7 +4,7 @@ function Questdie(props)
 {
    
     return (
-        <div>
+        <div className='quest-mainbox'>
             
             <h1 className='questions-css'>
                 {props.quess}

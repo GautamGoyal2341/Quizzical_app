@@ -44,6 +44,13 @@ body{
 }
 
 
+.quest-mainbox{
+    background-color: #F5F7FB;
+    width: 550px;
+    /* Height :550px; */
+    margin-left: 405px;
+
+}   
 .quest-main{
     color: #293264;
 }
@@ -51,5 +58,13 @@ body{
 .questions-css{
     color: #293264;
     font-weight: 700px;
-    line-height: ;
+    /* line-height: 18.7px; */
+}
+
+.option-css{
+
+    padding: 12px;
+    border-radius: 15px;
+    background-color: #465294;
+
 }
